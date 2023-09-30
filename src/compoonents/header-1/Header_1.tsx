@@ -6,8 +6,8 @@ import "./header.module.css";
 
 const Header_1 = () => {
   return (
-    <div className="flex items-center w-full h-20 bg-[#1F2432] text-white">
-      <div className="px-4 lg:px-24  mx-auto md:bg-none">
+    <div className="flex items-center w-full h-20 bg-[#1F2432] text-white header-1">
+      <div className="px-4 lg:px-24 mx-auto">
         <div className="flex justify-between">
           <div className="flex ">
             <p>First 20 students get 50% discount.</p>

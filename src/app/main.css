@@ -1,0 +1,30 @@
+@media screen and (max-width: 600px){
+    .nav-res{
+        display: none;
+    }
+
+    .header-1{
+        display: none;
+    }
+
+    .header-2{
+        padding: 6%;
+    }
+
+    .header-res{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .category-res{
+        display: none;
+    }
+
+    .logo-res{
+       width: 500%;
+    }
+
+    .input-header-res{
+        display: none;
+    }
+}
