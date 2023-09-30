@@ -1,0 +1,5 @@
+.hoverlink:hover{
+    color:#1AB69D;
+    transition: all;
+    transition-duration: 0.5s ease;
+}
